@@ -1,0 +1,5 @@
+DataDirectory /tmp/tordata
+ORPort 0
+BridgeRelay 0
+ExitRelay 0
+ExitPolicy reject *:*
