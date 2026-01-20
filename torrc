@@ -3,3 +3,4 @@ ORPort 0
 BridgeRelay 0
 ExitRelay 0
 ExitPolicy reject *:*
+SocksPort 0.0.0.0:9050
